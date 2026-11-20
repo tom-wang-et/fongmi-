@@ -261,16 +261,6 @@
       "group": "根目录"
     },
     {
-      "key": "py_0027",
-      "name": "凤梨音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E5%87%A4%E6%A2%A8%E9%9F%B3%E4%B9%90.py?v=py_0027",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "根目录"
-    },
-    {
       "key": "py_0028",
       "name": "剧迷",
       "type": 3,
@@ -2125,26 +2115,6 @@
       "name": "DIDAHD",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E7%93%9C%E4%BD%ACTVBox%20%281%29/TVBox/py/DIDAHD.py?v=py_0213",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "瓜佬TVBox (1)"
-    },
-    {
-      "key": "py_0214",
-      "name": "DJGEM音乐网",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E7%93%9C%E4%BD%ACTVBox%20%281%29/TVBox/py/DJGEM%E9%9F%B3%E4%B9%90%E7%BD%91.py?v=py_0214",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "瓜佬TVBox (1)"
-    },
-    {
-      "key": "py_0215",
-      "name": "DJ呦呦",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E7%93%9C%E4%BD%ACTVBox%20%281%29/TVBox/py/DJ%E5%91%A6%E5%91%A6.py?v=py_0215",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -4581,16 +4551,6 @@
       "group": "瓜佬TVBox (1)"
     },
     {
-      "key": "py_0459",
-      "name": "YYMP3音乐网",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E7%93%9C%E4%BD%ACTVBox%20%281%29/TVBox/py/YYMP3%E9%9F%B3%E4%B9%90%E7%BD%91.py?v=py_0459",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "瓜佬TVBox (1)"
-    },
-    {
       "key": "py_0460",
       "name": "ZakaTV·123视频",
       "type": 3,
@@ -5011,16 +4971,6 @@
       "group": "瓜佬TVBox (1)"
     },
     {
-      "key": "py_0502",
-      "name": "五哥爱音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E7%93%9C%E4%BD%ACTVBox%20%281%29/TVBox/py/%E4%BA%94%E5%93%A5%E7%88%B1%E9%9F%B3%E4%B9%90.py?v=py_0502",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "瓜佬TVBox (1)"
-    },
-    {
       "key": "py_0503",
       "name": "亚色影库",
       "type": 3,
@@ -5285,16 +5235,6 @@
       "name": "十区影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E7%93%9C%E4%BD%ACTVBox%20%281%29/TVBox/py/%E5%8D%81%E5%8C%BA%E5%BD%B1%E8%A7%86.py?v=py_0529",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "瓜佬TVBox (1)"
-    },
-    {
-      "key": "py_0530",
-      "name": "千千音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E7%93%9C%E4%BD%ACTVBox%20%281%29/TVBox/py/%E5%8D%83%E5%8D%83%E9%9F%B3%E4%B9%90.py?v=py_0530",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -14351,26 +14291,6 @@
       "group": "蝴蝶py"
     },
     {
-      "key": "py_1436",
-      "name": "🦋 DJGEM音乐网",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E8%9D%B4%E8%9D%B6py/%E8%9D%B4%E8%9D%B6py/%F0%9F%A6%8B%20DJGEM%E9%9F%B3%E4%B9%90%E7%BD%91.py?v=py_1436",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "蝴蝶py"
-    },
-    {
-      "key": "py_1437",
-      "name": "🦋 DJ呦呦",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E8%9D%B4%E8%9D%B6py/%E8%9D%B4%E8%9D%B6py/%F0%9F%A6%8B%20DJ%E5%91%A6%E5%91%A6.py?v=py_1437",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "蝴蝶py"
-    },
-    {
       "key": "py_1438",
       "name": "🦋 DSYS🔞",
       "type": 3,
@@ -15285,16 +15205,6 @@
       "name": "🦋 努努影院",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E8%9D%B4%E8%9D%B6py/%E8%9D%B4%E8%9D%B6py/%F0%9F%A6%8B%20%E5%8A%AA%E5%8A%AA%E5%BD%B1%E9%99%A2.py?v=py_1529",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "蝴蝶py"
-    },
-    {
-      "key": "py_1530",
-      "name": "🦋 千千音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E8%9D%B4%E8%9D%B6py/%E8%9D%B4%E8%9D%B6py/%F0%9F%A6%8B%20%E5%8D%83%E5%8D%83%E9%9F%B3%E4%B9%90.py?v=py_1530",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -16235,16 +16145,6 @@
       "name": "🦋 枫叶4K(关梯)",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E8%9D%B4%E8%9D%B6py/%E8%9D%B4%E8%9D%B6py/%F0%9F%A6%8B%20%E6%9E%AB%E5%8F%B64K%28%E5%85%B3%E6%A2%AF%29.py?v=py_1624",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "蝴蝶py"
-    },
-    {
-      "key": "py_1625",
-      "name": "🦋 枫叶音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E8%9D%B4%E8%9D%B6py/%E8%9D%B4%E8%9D%B6py/%F0%9F%A6%8B%20%E6%9E%AB%E5%8F%B6%E9%9F%B3%E4%B9%90.py?v=py_1625",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -17211,16 +17111,6 @@
       "group": "蝴蝶py"
     },
     {
-      "key": "py_1722",
-      "name": "🦋 酷我音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E8%9D%B4%E8%9D%B6py/%E8%9D%B4%E8%9D%B6py/%F0%9F%A6%8B%20%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90.py?v=py_1722",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "蝴蝶py"
-    },
-    {
       "key": "py_1723",
       "name": "🦋 采花大盗🔞",
       "type": 3,
@@ -17325,16 +17215,6 @@
       "name": "🦋 韩小圈(关梯)",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E8%9D%B4%E8%9D%B6py/%E8%9D%B4%E8%9D%B6py/%F0%9F%A6%8B%20%E9%9F%A9%E5%B0%8F%E5%9C%88%28%E5%85%B3%E6%A2%AF%29.py?v=py_1733",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "蝴蝶py"
-    },
-    {
-      "key": "py_1734",
-      "name": "🦋 音乐聚合",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/%E8%9D%B4%E8%9D%B6py/%E8%9D%B4%E8%9D%B6py/%F0%9F%A6%8B%20%E9%9F%B3%E4%B9%90%E8%81%9A%E5%90%88.py?v=py_1734",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -17981,16 +17861,6 @@
       "group": "2026-9-30 1629亲测138个可用py"
     },
     {
-      "key": "py_1799",
-      "name": "千千音乐 [2026-9-30 1629亲测138个可用py]",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/2026-9-30%201629%E4%BA%B2%E6%B5%8B138%E4%B8%AA%E5%8F%AF%E7%94%A8py/%E5%8D%83%E5%8D%83%E9%9F%B3%E4%B9%90.py?v=py_1799",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "2026-9-30 1629亲测138个可用py"
-    },
-    {
       "key": "py_1800",
       "name": "华谊影视",
       "type": 3,
@@ -18241,16 +18111,6 @@
       "group": "2026-9-30 1629亲测138个可用py"
     },
     {
-      "key": "py_1825",
-      "name": "影子音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/2026-9-30%201629%E4%BA%B2%E6%B5%8B138%E4%B8%AA%E5%8F%AF%E7%94%A8py/%E5%BD%B1%E5%AD%90%E9%9F%B3%E4%B9%90.py?v=py_1825",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "2026-9-30 1629亲测138个可用py"
-    },
-    {
       "key": "py_1826",
       "name": "悟圣短剧 [2026-9-30 1629亲测138个可用py]",
       "type": 3,
@@ -18405,16 +18265,6 @@
       "name": "枫叶影院 [2026-9-30 1629亲测138个可用py]",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/2026-9-30%201629%E4%BA%B2%E6%B5%8B138%E4%B8%AA%E5%8F%AF%E7%94%A8py/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py?v=py_1841",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "2026-9-30 1629亲测138个可用py"
-    },
-    {
-      "key": "py_1842",
-      "name": "枫叶音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/2026-9-30%201629%E4%BA%B2%E6%B5%8B138%E4%B8%AA%E5%8F%AF%E7%94%A8py/%E6%9E%AB%E5%8F%B6%E9%9F%B3%E4%B9%90.py?v=py_1842",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -18821,16 +18671,6 @@
       "group": "2026-9-30 1629亲测138个可用py"
     },
     {
-      "key": "py_1883",
-      "name": "酷我音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/2026-9-30%201629%E4%BA%B2%E6%B5%8B138%E4%B8%AA%E5%8F%AF%E7%94%A8py/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90.py?v=py_1883",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "2026-9-30 1629亲测138个可用py"
-    },
-    {
       "key": "py_1884",
       "name": "采集聚合",
       "type": 3,
@@ -18885,16 +18725,6 @@
       "name": "韩小圈",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/2026-9-30%201629%E4%BA%B2%E6%B5%8B138%E4%B8%AA%E5%8F%AF%E7%94%A8py/%E9%9F%A9%E5%B0%8F%E5%9C%88.py?v=py_1889",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "group": "2026-9-30 1629亲测138个可用py"
-    },
-    {
-      "key": "py_1890",
-      "name": "音乐聚合",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/zyp0426/fongmi-py/main/2026-9-30%201629%E4%BA%B2%E6%B5%8B138%E4%B8%AA%E5%8F%AF%E7%94%A8py/%E9%9F%B3%E4%B9%90%E8%81%9A%E5%90%88.py?v=py_1890",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -18999,6 +18829,96 @@
       "quickSearch": 1,
       "filterable": 1,
       "group": "蝴蝶py"
+    },
+    {
+      "key": "s18_01",
+      "name": "🔞155资源⭐",
+      "type": 1,
+      "api": "http://155api.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "s18_02",
+      "name": "🔞森林资源⭐",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "s18_03",
+      "name": "🔞淫水机资源⭐",
+      "type": 1,
+      "api": "https://www.xrbsp.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "s18_04",
+      "name": "🔞玉兔资源⭐",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "s18_05",
+      "name": "🔞白嫖资源⭐",
+      "type": 1,
+      "api": "https://www.kxgav.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "s18_06",
+      "name": "🔞精品资源⭐",
+      "type": 1,
+      "api": "http://www.jingpinx.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "s18_07",
+      "name": "🔞美少女资源⭐",
+      "type": 1,
+      "api": "https://www.msnii.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "s18_08",
+      "name": "🔞老色逼资源⭐",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "s18_09",
+      "name": "🔞香奶儿资源⭐",
+      "type": 1,
+      "api": "https://www.gdlsp.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "s18_10",
+      "name": "🔞黄AV资源⭐",
+      "type": 1,
+      "api": "https://www.pgxdy.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ]
 }
